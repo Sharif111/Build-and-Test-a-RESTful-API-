@@ -7,7 +7,7 @@ it with a postman tool.Database i use is mysql.
 
 
 ## Language we use
-PHP Framework(laravel)
-Database:MySQL
+PHP Framework(laravel),
+Database:MySQL,
 Testing Tool:POSTMAN
 
